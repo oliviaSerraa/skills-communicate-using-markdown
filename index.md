@@ -11,3 +11,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var cancion = "Secret Secret";
 ```
+- [X] Tengo álbumes de StrayKids
+- [ ] Hay fechas para un concierto Stray Kids en Argentina
+- [ ] Conseguí entradas para el concierto
